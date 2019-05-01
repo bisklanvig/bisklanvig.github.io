@@ -1,9 +1,4 @@
+# entretien
 
-Manche
-AIS vs marée
-
-Analyse route MMSI
-Stockage - Archivage
-GeoGate
-
-Base de données bateau
+- Fermeture gauche hublot à checker
+- Système pour attacher/détacher le bas-étai
